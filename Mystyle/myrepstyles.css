@@ -7,3 +7,12 @@
     border-color: blueviolet;
     margin: 20px;
 }
+
+.itachi{
+    color: rgb(216, 59, 31);
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 5px;
+}
